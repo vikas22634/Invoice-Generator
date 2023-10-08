@@ -9,7 +9,7 @@ https://enchanting-manatee-3aab8d.netlify.app
 ### Screenshots
 <img width="960" alt="Screenshot 2023-10-08 201042" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/011ba39f-96d0-4c02-96d8-f263e3ebf748">
 
-
+<img width="954" alt="Screenshot 2023-10-08 201009" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/484bf9a1-f164-4114-9d83-eb569fc45b24">
 
 
 <img width="960" alt="Screenshot 2023-10-08 195929" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/62df84fe-a923-4d45-ae70-cd5169ecef52">
