@@ -7,7 +7,14 @@ This project is designed to simplify invoice management using React and Redux. I
 https://enchanting-manatee-3aab8d.netlify.app
 
 ### Screenshots
+<img width="960" alt="Screenshot 2023-10-08 201042" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/011ba39f-96d0-4c02-96d8-f263e3ebf748">
 
+
+
+
+<img width="960" alt="Screenshot 2023-10-08 195929" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/62df84fe-a923-4d45-ae70-cd5169ecef52">
+
+<img width="960" alt="Screenshot 2023-10-08 201919" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/fab29a42-bd50-4baf-9a60-674622efaefb">
 
 ### Installation
 Make sure you have Node.js version 16.20.2 installed.
