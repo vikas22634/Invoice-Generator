@@ -14,7 +14,7 @@ This project is designed to simplify invoice management using React and Redux. I
 
 <img width="960" alt="Screenshot 2023-10-08 195929" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/62df84fe-a923-4d45-ae70-cd5169ecef52">
 
-<img width="960" alt="Screenshot 2023-10-08 201919" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/fab29a42-bd50-4baf-9a60-674622efaefb">
+<img width="960" alt="Screenshot 2023-10-18 173647" src="https://github.com/vikas22634/Invoice-Generator/assets/75554973/9ce58d27-5b4c-4b27-af3b-4da8ade6c867">
 
 ### Installation
 Make sure you have Node.js version 16.20.2 installed.
